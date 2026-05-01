@@ -8,6 +8,7 @@ Our Bots and MiniApp can now be integrated with any of these your RPC:
 ✅ And any private external RPC nodes that are not automatically available in shkeeper, like Solana.
 
 💬 DM https://t.me/InDMDev
+
 📣 Channel https://t.me/InDMDevBots
 
 # Private Solana RCP example 👇:
