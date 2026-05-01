@@ -2,11 +2,11 @@
 SHKeeper is a self-hosted and open-source cryptocurrency gateway payment processor.
 Our Bots and MiniApp can now be integrated with any of these your RPC:
 
-✅ Tron Node
-✅ Thereum Node
-✅ Bnb Node
-✅ Xrp Node
-✅ And any private external RPC nodes that are not automatically available in shkeeper, like Solana.
+1. ✅ Tron Node
+2. ✅ Thereum Node
+3. ✅ Bnb Node
+4. ✅ Xrp Node
+5. ✅ And any private external RPC nodes that are not automatically available in shkeeper, like Solana.
 
 💬 DM https://t.me/InDMDev
 
