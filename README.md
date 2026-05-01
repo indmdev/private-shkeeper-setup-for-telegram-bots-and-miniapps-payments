@@ -7,4 +7,5 @@ Our Bots and MiniApp can now be integrated with any of these your RPC:
 4. xrp-shkeeper
 5. And any private external RPC nodes that are not automatically set up in shkeeper, like Solana.
 
+# Private RCP example:
    <img width="1394" height="791" alt="image" src="https://github.com/user-attachments/assets/1f6665b0-c31c-43ea-9320-e1bb770e2a1d" />
