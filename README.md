@@ -10,6 +10,7 @@ Our Bots and MiniApp can now be integrated with any of these your RPC:
 
 
 💬 DM https://t.me/InDMDev
+
 📣 Channel https://t.me/InDMDevBots
 
 
